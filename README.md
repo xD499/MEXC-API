@@ -1,1 +1,1 @@
-# Binance Websocket Stream
+# MEXC Websocket Stream Accessor
